@@ -1,5 +1,7 @@
 ### Running rails with docker:
 
+!! Ensure that docker daemon is running first
+
 1. Create rails app with 'rails new my-app'
 2. Create Dockerfile and save it with:
 
